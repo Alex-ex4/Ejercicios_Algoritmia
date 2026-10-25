@@ -5,6 +5,7 @@ Repositorio para los ejercicios de Algoritmia y Optimización
 Link del video explicatorio:
 
 ├── README.md                        # Archivo de estructura del repositorio
+
 ├── src/
 │   ├── ej1_parallel_speedup.py      # Ejercicio 1: Speedup Paralelo
 │   ├── ej2_greedy_knapsack.py       # Ejercicio 2: Knapsack (Menor Peso vs. Valor/Peso)
