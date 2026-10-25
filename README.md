@@ -2,7 +2,7 @@
 
 Repositorio para los ejercicios de Algoritmia y Optimización
 
-Link del video explicatorio:
+Link del video explicatorio: https://youtu.be/RWVbIO52Z48?si=djqws-XlE3HU-7ju
 
 ├── README.md                    # Archivo de estructura del repositorio
 
