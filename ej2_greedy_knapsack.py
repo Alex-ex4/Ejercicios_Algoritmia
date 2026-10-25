@@ -22,9 +22,11 @@ def greedy_knapsack_ratio(values, weights, W):
             total_value += values[i]
     return chosen, total_weight, total_value
 
-#Instancia para que el menor peso obtenga un resultado inferior
-#Objeto 0: Peso 1, Valor 2  (Ratio 2.0)
-#Objeto 1: Peso 10, Valor 100 (Ratio 10.0)
+"""
+Instancia para que el menor peso obtenga un resultado inferior
+Objeto 0: Peso 1, Valor 2  (Ratio 2.0)
+Objeto 1: Peso 10, Valor 100 (Ratio 10.0)
+"""
 values = [2, 100]
 weights = [1, 10]
 W = 10
